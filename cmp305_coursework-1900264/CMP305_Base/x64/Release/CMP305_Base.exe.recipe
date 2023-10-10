@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\CMP305_Base.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\bloom_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\default_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\horizontalBlur_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\texture_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\light_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\light_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\thresholdBrightness_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\verticalBlur_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\wave_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\CMP305 PM\cmp305_coursework-1900264\x64\Release\wave_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

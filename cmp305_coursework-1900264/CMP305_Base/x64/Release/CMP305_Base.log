@@ -1,0 +1,4 @@
+﻿D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\cmp301_coursework-1900264\Coursework\Coursework\shaders\light_ps.hlsl(75,12-38): warning X3206: implicit truncation of vector type
+D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\cmp301_coursework-1900264\Coursework\Coursework\shaders\light_ps.hlsl(49,30-40): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+  
+  compilation failed; no code produced
